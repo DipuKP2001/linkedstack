@@ -49,6 +49,7 @@ void main(){
 	int ch,x,del;
 	while(1){
 		printf("\n----------------------------------------------------------------------------------\n");
+		#options
 		printf("Enter your choice:\n1.Push\t2.Pop\t3.Display\t4.Exit\n");
 		scanf("%d",&ch);
 		switch(ch){
